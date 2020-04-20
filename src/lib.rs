@@ -1,3 +1,4 @@
+#![allow(unused_braces)]
 /*!
 nphysics
 ========
